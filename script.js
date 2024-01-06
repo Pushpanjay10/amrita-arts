@@ -30,18 +30,18 @@ $(document).ready(function () {
     $(".menu-btn i").toggleClass("active");
   });
   // typing text animation script
-  var typed = new Typed(".typing", {
-    strings: ["Coder", "Developer", "Blogger", "Designer", "Freelancer"],
-    typeSpeed: 100,
-    backSpeed: 60,
-    loop: true,
-  });
-  var typed = new Typed(".typing-2", {
-    strings: ["Coder", "Developer", "Blogger", "Designer", "Freelancer"],
-    typeSpeed: 100,
-    backSpeed: 60,
-    loop: true,
-  });
+  //   var typed = new Typed(".typing", {
+  //     strings: ["Coder", "Developer", "Blogger", "Designer", "Freelancer"],
+  //     typeSpeed: 100,
+  //     backSpeed: 60,
+  //     loop: true,
+  //   });
+  //   var typed = new Typed(".typing-2", {
+  //     strings: ["Coder", "Developer", "Blogger", "Designer", "Freelancer"],
+  //     typeSpeed: 100,
+  //     backSpeed: 60,
+  //     loop: true,
+  //   });
   // owl carousel script
   $(".carousel").owlCarousel({
     margin: 20,
